@@ -1,48 +1,62 @@
 places = [
-    {"id": "1", "name": "Kyakt Taung Pagoda", "cat_id": "1",
-        "lat": "22.014296", "long": "96.447091", "image_url" : "test.png"},
-    {"id": "2", "name": "Police Station", "cat_id": "8",
-        "lat": "22.014722", "long": "96.450895"},
-    {"id": "3", "name": "Famous Hotel", "cat_id": "2",
-        "lat": "22.012989", "long": "96.454909"},
-    {"id": "4", "name": "Lan San Aung Cafe", "cat_id": "6",
-        "lat": "22.014854", "long": "96.461379"},
-    {"id": "5", "name": "Junction(Ztwda)", "cat_id": "7",
-        "lat": "22.016014", "long": "96.467126"},
-    {"id": "6", "name": "Tai Puti Hotel (Daw Win)", "cat_id": "2",
-        "lat": "22.01861", "long": "96.464128"},
-    {"id": "7", "name": "No 4 Quarter Office", "cat_id": "8",
-     "lat": "22.02094", "long": "96.46303"},
-    {"id": "8", "name": "View Corner Restaurant",
-     "cat_id": "3", "lat": "22.02394", "long": "96.460295"},
-    {"id": "9", "name": "Sitta ThuKa Medicine Store",
-     "cat_id": "4", "lat": "22.023381", "long": "96.463702"},
-    {"id": "10", "name": "Htee Hlaing", "cat_id": "8",
-     "lat": "22.016435", "long": "96.469471"},
-    {"id": "11", "name": "Sabdar May Food", "cat_id": "8",
-     "lat": "22.021061", "long": "96.473173"},
-    {"id": "12", "name": "Nay La Thuka Hotel", "cat_id": "2",
-     "lat": "22.023155", "long": "96.468492"},
-    {"id": "13", "name": "KBZ Bank", "cat_id": "5",
-     "lat": "22.026884", "long": "96.4641"},
-    {"id": "14", "name": "Pin Se Cafe", "cat_id": "6",
-     "lat": "22.028928", "long": "96.465214"},
-    {"id": "15", "name": "Shwe Si Gone Junction",
-     "cat_id": "7", "lat": "22.024692", "long": "96.470421"},
-    {"id": "16", "name": "Mya NanTaw Hotel", "cat_id": "2",
-     "lat": "22.022513", "long": "96.474771"},
-    {"id": "17", "name": "Su PaungRestaurant", "cat_id": "3",
-     "lat": "22.024068", "long": "96.476552"},
-    {"id": "18", "name": "Shwe Kyal Store", "cat_id": "4",
-     "lat": "22.026332", "long": "96.470908"},
-    {"id": "19", "name": "Toyota U Than Shwe (Shop)",
-        "cat_id": "4", "lat": "22.028505", "long": "96.471483"},
-    {"id": "20", "name": "Sein Restaurant", "cat_id": "3",
-     "lat": "22.028505", "long": "96.47799"},
-    {"id": "21", "name": "Sandar Book Store", "cat_id": "4",
-     "lat": "22.031904", "long": "96.472356"},
-    {"id": "22", "name": "Shwe Moon Tyre Shop", "cat_id": "4",
-     "lat": "22.032054", "long": "96.476595"},
-    {"id": "23", "name": "Wing 2", "cat_id": "8",
-     "lat": "22.009387", "long": "96.454647"}
+    {"id": "1", "name": "Governor's House", "cat_id": "1",
+        "lat": "22.01872392062109", "long": "96.45711393689749", "image_url" : "test.png"},
+
+    {"id": "2", "name": "Purcell Clock Tower", "cat_id": "8",
+        "lat": "22.026959885709", "long": "96.46417970991676"},
+
+    {"id": "3", "name": "Myoma Market", "cat_id": "2",
+        "lat": "22.025588687828435", "long": "96.46520300806128"},
+
+    {"id": "4", "name": "Pyin Oo Lwin Night Market", "cat_id": "6",
+        "lat": "22.026071741293258", "long": "96.48056965224376"},
+
+    {"id": "5", "name": " Chinese Vegetarian Temple", "cat_id": "7",
+        "lat": "22.021865239667722", "long": "96.47863775038817"},
+
+    {"id": "6", "name": "National Kandawgyi Botanical Gardens", "cat_id": "2",
+        "lat": "21.994167004139996", "long": "96.46943243689662"},
+
+    {"id": "7", "name": " Bamboo Cafe & Restaurant", "cat_id": "8",
+     "lat": "21.994291180231247", "long": "96.46943273689668"},
+
+    {"id": "8", "name": "National Landmarks Garden",
+     "cat_id": "3", "lat": "21.996116681244256", "long": "96.47346266573322"},
+
+    {"id": "9", "name": "Royal Rose Farm",
+     "cat_id": "4", "lat": "21.98438649401161", "long": "96.5207270755123"},
+
+    {"id": "10", "name": "Shwe Pyin Oo Lwin Grape Fruit Garden", "cat_id": "8",
+     "lat": "21.956437245224727", "long": "96.49118050620335"},
+
+    {"id": "11", "name": "Coniferous Forests မြိုရှောင်လမ်းထင်းရှူးတော", "cat_id": "8",
+     "lat": "22.005234308287008", "long": "96.48811642155098"},
+
+    {"id": "12", "name": "Ruby Mart", "cat_id": "2",
+     "lat": "22.03820131899479", "long": "96.49007583875364"},
+
+    {"id": "13", "name": "Maha EnthtookanTar Pagada & Garden", "cat_id": "5",
+     "lat": "22.05961151693717", "long": "96.52665613875438"},
+
+    {"id": "14", "name": "Pwe Kauk Falls (B.E. Falls)", "cat_id": "6",
+     "lat": "22.065450526163218", "long": "96.53381486573561"},
+
+    {"id": "15", "name": "Htoo Orange Farm",
+     "cat_id": "7", "lat": "22.09367835933169", "long": "96.53365930991907"},
+
+    {"id": "16", "name": "December Garden & Waterfall", "cat_id": "2",
+     "lat": "22.0586365802124", "long": "96.55371113504336"},
+
+    {"id": "17", "name": "Maha Nandamu Peik Chin Myaung Cave", "cat_id": "3",
+     "lat": "22.096238178463086", "long": "96.62021013690016"},
+
+    {"id": "18", "name": "Nhee Phaya", "cat_id": "4",
+     "lat": "21.967755628479928", "long": "96.41749622340525"},
+
+    {"id": "19", "name": "The View Resort & Restaurant",
+        "cat_id": "4", "lat": "21.98484602060471", "long": "96.38827953689629"},
+
+    {"id": "20", "name": "Dat Taw Gyaint Waterfall", "cat_id": "3",
+     "lat": "21.98493241256396", "long": "96.38827050805986"},
+    
 ]
